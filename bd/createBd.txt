@@ -1,0 +1,2 @@
+CREATE TABLE `akouvach_usca`.`usuarios` ( `Nombre` VARCHAR(50) NOT NULL , `Apellido` VARCHAR(50) NOT NULL , `Email` VARCHAR(60) NOT NULL , `FechaNac` DATE NOT NULL , `CiudadId` INT NOT NULL ) ENGINE = MyISAM COMMENT = 'Registro de usuarios';
+
